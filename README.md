@@ -31,7 +31,7 @@ Speaker verification utilizes speech characteristics to validate the speaker’s
      - Inter-pair Comparisons:
         - Alexa
         - Siri
-        - Google
+        - Google Assistant
         - Cortana
       
 <h3>Speechbrain</h3>
@@ -54,6 +54,27 @@ Speaker verification utilizes speech characteristics to validate the speaker’s
 
 
 <h2>Implmentation</h2>
+
+-It can be understood by the following chart👇
+
+![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/df4e9ab3-5956-435e-91bf-a87ca5ff15bf)
+
+<h2>Result</h2>
+
+<h2>Conclusions</h2>
+- Intra-pair TDSV analysis shows similarities among all versions, leading to potential security concerns.
+- Inter-pair TDSV analysis found matches between Cortana & Google Assistant and Alexa.
+- TISV has higher accuracy than TDSV due to the model's capability to differentiate different texts.
+- Additional training on a broader dataset of synthetic voices is recommended for better performance.
+- The study emphasizes the potential of transfer learning and SpeechBrain for speaker verification, also acknowledging challenges with synthetic voices.
+
+
+
+
+
+
+
+
 
 
 
