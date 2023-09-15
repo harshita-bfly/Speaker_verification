@@ -61,7 +61,31 @@ Speaker verification utilizes speech characteristics to validate the speaker’s
 
 <h2>Result</h2>
 
-<h2>Conclusions</h2>
+![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/eb13ace2-dc68-4ce6-9228-4fafa763f7c3)
+
+- In brief analysis
+  
+    - Intra-pair comparison
+
+         - ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/d30c5fc8-d409-43a2-b363-0f73951403c1)
+
+         - ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/745a3a63-73e7-45de-84c2-978e570171dd)
+
+         - ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/1d216c10-4584-4b50-8367-6ba7111de4be)
+
+         - ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/107f91c8-deb5-4fc5-bc27-891833afd9ab)
+
+    - Inter-pair comparison
+
+        -  ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/ecb208a9-0a0b-4f44-abc5-6d365d96d24f)
+        -  
+        -  ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/2ae824e7-978f-4736-b95b-9f3ff1659176)
+          
+
+
+
+<h2>Conclusion</h2>
+
 - Intra-pair TDSV analysis shows similarities among all versions, leading to potential security concerns.
 - Inter-pair TDSV analysis found matches between Cortana & Google Assistant and Alexa.
 - TISV has higher accuracy than TDSV due to the model's capability to differentiate different texts.
