@@ -5,6 +5,8 @@
 <h2>What is speaker verification? 🤔</h2>
 
  ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/b637365c-7e0a-4a3e-88d0-e0a41d0d792b)
+ 
+Speaker verification is a biometric method to confirm a person's identity based on their unique voice traits. For instance, in secure systems, a user's voiceprint is compared to a preregistered sample for access. It's commonly used in phone-based customer service, voice assistants, and security applications to enhance identity verification.
 
 <h2>Overview of this project 😄</h2>
 
@@ -53,17 +55,17 @@ Speaker verification utilizes speech characteristics to validate the speaker’s
 - Validation and Testing: Evaluate on a validation set.
 
 
-<h2>Implmentation</h2>
+<h2>Implmentation 💬</h2>
 
 -It can be understood by the following chart👇
 
 ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/df4e9ab3-5956-435e-91bf-a87ca5ff15bf)
 
-<h2>Result</h2>
+<h2>Result 👩‍💻</h2>
 
 ![image](https://github.com/harshita-bfly/Speaker_verification/assets/100403649/eb13ace2-dc68-4ce6-9228-4fafa763f7c3)
 
-- In brief analysis
+- In brief analysis 🧐
   
     - Intra-pair comparison
 
@@ -84,7 +86,7 @@ Speaker verification utilizes speech characteristics to validate the speaker’s
 
 
 
-<h2>Conclusion</h2>
+<h2>Conclusion 👏</h2>
 
 - Intra-pair TDSV analysis shows similarities among all versions, leading to potential security concerns.
 - Inter-pair TDSV analysis found matches between Cortana & Google Assistant and Alexa.
